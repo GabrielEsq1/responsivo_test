@@ -338,7 +338,7 @@
    
     position: relative;
   top: 25px;
-  left: 45px;
+  left: 15px;
     height: 200px;
     /*IMPORTANTE*/
     
@@ -674,8 +674,8 @@
   
     #facebook {
       position: absolute;
-      top: 450px;
-      
+      top: 550px;
+      display: block;
       left: 50px;
   width: 260px;
   height: 52px;
@@ -710,8 +710,8 @@
     }
     #google {
       position: absolute;
-      top: 510px;
-      
+      top: 610px;
+      display: block;
       left: 50px;
       width: 260px;
       height: 52px;
