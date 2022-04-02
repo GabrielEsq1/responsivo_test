@@ -709,7 +709,7 @@
       opacity: 1; 
     }
     #google {
-      position: absolute;
+      position: relative;
       top: 610px;
       display: block;
       left: 50px;
